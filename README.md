@@ -1,4 +1,4 @@
-[**English**](README.md) | [**فارسی**](README_fa.md)
+[**English**](README.md) | [**فارسی**](README_FA.md)
 ---
 # **🛒 Online Shoppers Purchase Intention — Data Engineering & ML Project**
 
