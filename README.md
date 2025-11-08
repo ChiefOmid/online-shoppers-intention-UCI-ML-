@@ -1,6 +1,15 @@
-🛒 Online Shoppers Purchase Intention — Data Engineering & ML Project
+[**English**](README.md) | [**فارسی**](README_fa.md)
+---
+# **🛒 Online Shoppers Purchase Intention — Data Engineering & ML Project**
 
-📘 Project Overview
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)
+
+
+
+## 📘 Project Overview
 
 This project is a complete data analytics and machine learning pipeline built around the Online Shoppers Intention dataset
  from the UCI Machine Learning Repository.
@@ -20,13 +29,12 @@ Machine learning model (Random Forest) in Python
 
 Data visualization and insights with Power BI
 
-🧩 Project Structure
-📂 OnlineShoppersIntention
-<br>├── OnlineShoppersIntention.sql     
-<br>├── OnlineShoppersIntention.ipynb   
-<br>├── PowerBI_Dashboard.pbix         
-<br>├── data/
-<br>├── online_shoppers_intention.csv
+## 🧩 Project Structure
+<br>📂 OnlineShoppersIntention
+<br>├── [**OnlineShoppersIntention.sql**](OnlineShoppersIntention.sql)
+<br>├── [**OnlineShoppersIntention_ml.ipynb**](OnlineShoppersIntention_ml.ipynb)
+<br>├── [**OnlineShoppersIntention.pbix**](OnlineShoppersIntention.pbix)
+<br>├── data/online_shoppers_intention.csv
 <br>└── README.md                       
 
 
