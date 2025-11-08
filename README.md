@@ -4,6 +4,8 @@
 This project is a complete data analytics and machine learning pipeline built around the Online Shoppers Intention dataset
  from the UCI Machine Learning Repository.
 The goal of this project is to predict whether a visitor will make a purchase during their session, based on their browsing behavior and session attributes.
+
+
 ----------------------
 The workflow includes:
 
@@ -19,15 +21,19 @@ Data visualization and insights with Power BI
 
 🧩 Project Structure
 📂 OnlineShoppersIntention
-├── OnlineShoppersIntention.sql     # PostgreSQL ETL and data cleaning script
-├── OnlineShoppersIntention.ipynb   # Jupyter Notebook (Random Forest model)
-├── PowerBI_Dashboard.pbix          # Final Power BI dashboard
-├── data/
-│   └── online_shoppers_intention.csv
-└── README.md                       # Project documentation
+<br>├── OnlineShoppersIntention.sql     
+<br>├── OnlineShoppersIntention.ipynb   
+<br>├── PowerBI_Dashboard.pbix         
+<br>├── data/
+<br>├── online_shoppers_intention.csv
+<br>└── README.md                       
+
+
 -----------------------
 
 ⚙️ Step-by-Step Workflow
+-
+
 1️⃣ Data Source
 
 Dataset: UCI ML Repository – Online Shoppers Intention
@@ -91,8 +97,11 @@ Traffic type performance
 Regional insights
 
 Final dashboard file: PowerBI_Dashboard.pbix
+
+
 -----------------------------------
 🧠 Tools & Technologies
+-
 Category	Tools
 Database	PostgreSQL, pgAdmin
 Language	Python 3.x
@@ -122,6 +131,7 @@ cd OnlineShoppersIntention
 
 
 Run the SQL script in pgAdmin to create tables and load data:
+-
 
 \i OnlineShoppersIntention.sql
 
@@ -146,7 +156,7 @@ Specific traffic sources contribute more to conversions.
 
 🧾 References
 
-UCI Machine Learning Repository — Online Shoppers Intention Data Set
+UCI Machine Learning Repository — Online Shoppers Intention Data Set (Root File)
 
 scikit-learn Documentation
 
