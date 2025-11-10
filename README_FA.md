@@ -115,3 +115,8 @@
 🌐 [https://github.com/ChiefOmid](https://github.com/ChiefOmid)
 
 </div>
+
+
+![onlineshoppers2](https://github.com/user-attachments/assets/f8e9b5a7-2e7e-4ce3-8f64-ba52433ccbde)
+![onlineshoppers](https://github.com/user-attachments/assets/96628d8c-b602-4e4c-a271-91f2d1d955bb)
+
